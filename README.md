@@ -17,7 +17,7 @@
 ---
 
 ## 📫 Let's Connect!  
-📧 **Email:** [udaykumar.uk9567@gmail.com](mailto:udaykumar.uk9567@gmail.com)  
+📧 **Email:** [uk.udaykumar9567@gmail.com](mailto:uk.udaykumar9567@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/karampudiudaykumar](https://www.linkedin.com/in/karampudiudaykumar/)  
 
 ---
