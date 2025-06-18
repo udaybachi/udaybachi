@@ -1,17 +1,18 @@
 ---
 
-#  About Me  
+# About Me  
 
-## 👋 Hi, I'm Uday Kumar Karampudi! 
-## I am a **Data Analyst** with over **3 years of experience**
-## Welcome to my GitHub profile! 👋
+## 👋 Hi, I'm Uday Kumar Karampudi!  
+## I am a **Java Full Stack Developer** with over **3 years of experience**  
+## Welcome to my GitHub profile! 🚀  
 
 ---
 
 ## 🔭 What I'm Up To  
-- 📊 Currently diving deep into **Data Analytics & Machine Learning**  
-- ☁️ Exploring **Cloud-based Data Engineering (Azure, AWS, GCP)**  
-- 📈 Building **cool dashboards & predictive models** to make sense of data  
+- 💻 Building scalable full-stack applications using **Java, Spring Boot, and React.js**  
+- ☁️ Deploying cloud-native solutions using **AWS (EC2, S3, Lambda)**  
+- 🧪 Experimenting with **microservices, CI/CD, and containerization with Docker**  
+- 📚 Constantly learning new frameworks, tools, and best practices in software development  
 
 ---
 
@@ -22,6 +23,6 @@
 ---
 
 😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** _"Data never sleeps, and neither do I (well, almost!)"_  
+⚡ **Fun Fact:** _"I love turning ideas into working software — coffee and clean code fuel my day."_  
 
 ---
