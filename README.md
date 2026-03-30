@@ -1,28 +1,21 @@
----
+# Uday Karampudi
 
-# About Me  
+**AI Data Specialist** | 4+ years in data and AI
 
-## 👋 Hi, I'm Uday Kumar Karampudi!  
-## I am a **Java Full Stack Developer** with over **3 years of experience**  
-## Welcome to my GitHub profile! 🚀  
+I build ML models, NLP systems, and the data pipelines that keep them running in production. Focused on applied AI, from anomaly detection and predictive modeling to generative systems with LLMs.
 
----
+## What I Build
 
-## 🔭 What I'm Up To  
-- 💻 Building scalable full-stack applications using **Java, Spring Boot, and React.js**  
-- ☁️ Deploying cloud-native solutions using **AWS (EC2, S3, Lambda)**  
-- 🧪 Experimenting with **microservices, CI/CD, and containerization with Docker**  
-- 📚 Constantly learning new frameworks, tools, and best practices in software development  
+- **Fraud Detection Pipeline** — Isolation Forest + ensemble methods, feature engineering, MLflow tracking
+- **NLP Document Classifier** — OpenAI embeddings, spaCy entity extraction, FastAPI serving layer
+- **Demand Forecasting Engine** — XGBoost, 30+ engineered features, drift monitoring via MLflow
 
----
+## Tech
 
-## 📫 Let's Connect!  
-📧 **Email:** [uk.udaykumar9567@gmail.com](mailto:uk.udaykumar9567@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/udayofficial](https://www.linkedin.com/in/udayofficial/)  
+Python, SQL, Scikit-learn, XGBoost, MLflow, OpenAI, Snowflake, Databricks, PySpark, AWS, Azure, Power BI, Tableau
 
----
+## Links
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** _"I love turning ideas into working software — coffee and clean code fuel my day."_  
-
----
+- [Portfolio](https://udaybachi.github.io)
+- [LinkedIn](https://www.linkedin.com/in/nethauday/)
+- [Email](mailto:udaynetha.un@gmail.com)
